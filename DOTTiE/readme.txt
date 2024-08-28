@@ -1,0 +1,1 @@
+Just a simple dot that follows the cursor
