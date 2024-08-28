@@ -1,0 +1,1 @@
+pyinstaller --onefile --name DOTTiE --noconsole --splash=splash.png app.py
